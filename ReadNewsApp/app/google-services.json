@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546234994002",
+    "project_id": "readnewsapp-f4ba8",
+    "storage_bucket": "readnewsapp-f4ba8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546234994002:android:d6a7092fd763159a26be8b",
+        "android_client_info": {
+          "package_name": "project.an.readnewsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC81VOYOKPlcvicwc_3zSWid1PbXl3XAug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
